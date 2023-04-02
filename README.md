@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menerglobal
-- 👀 I’m interested about software
+- 👀 I’m interested in software
 - 🌱 I’m currently learning JavaScript
 - 📫 You can reach me by email (m.eneserdogan@protonmail.com)
 
